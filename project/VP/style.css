@@ -4,6 +4,12 @@
   box-sizing: border-box;
 }
 
+body {
+
+  background-color: #666;
+ 
+}
+
 body1 {
   font-family: "Questrial", sans-serif;
   background-color: #666;
